@@ -12,7 +12,7 @@ ChainsHub is a platform who provide interraction to Blockchain network with easi
   - Generate your API Key
   - Done.
 
-# Data Parameter
+# Request Object
 
   - Dogecoin And Litecoin
    ```
