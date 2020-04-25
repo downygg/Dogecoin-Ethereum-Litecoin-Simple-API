@@ -18,7 +18,7 @@
     Ethereum Parameter
     
   $data = array(
-    "coin"=> "eth", //doge, ltc
+    "coin"=> "eth",
 	"to_address" => "", //destination address
 	"amount" => 0.001, //0.001
 	"gwei" => 1, //gwei, check https://ethgasstation.info/
