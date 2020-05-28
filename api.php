@@ -28,7 +28,7 @@
   */
 
   $ch = curl_init();
-  curl_setopt($ch, CURLOPT_URL, "https://crypto-api.xyz/api/transaction");
+  curl_setopt($ch, CURLOPT_URL, "https://chainshub.id/api/transaction");
   curl_setopt($ch, CURLOPT_POST, true);
   curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
   //curl_setopt($ch, CURLOPT_VERBOSE, true);
